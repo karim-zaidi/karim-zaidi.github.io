@@ -7,7 +7,7 @@ Email : XXXXXXXXXX
 Address : XXXXXXXXXX
 ```
 
- ## Formation
+## Formation
 
 
 -> 2019 - now : Double diploma engineering - master of data science, Centrale Lille Institut x University of Lille (Villeneuve-d'Ascq, 59650)
@@ -21,10 +21,10 @@ Address : XXXXXXXXXX
 
 ## Certification
 
-- Project management – advanced | MOOC « Gestion de projet »
+- Project management – advanced \| MOOC « Gestion de projet »
 specialization: problem solving methods and project team management
 
-- Acquire the basics in occupational risk prevention | INRS
+- Acquire the basics in occupational risk prevention \| INRS
 
 
 ## Work experience
