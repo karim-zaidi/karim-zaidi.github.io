@@ -1,5 +1,11 @@
 # Karim ZAIDI
 
+### My social media
+
+<img src="https://logodownload.org/wp-content/uploads/2019/03/linkedIn-logo-0.png" width="24"> [my LinkedIn account](https://www.linkedin.com)
+<img src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-1-1.png" width="24"> [my twitter account](https://twitter.com/)
+<img src="https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-0.png" width="24"> [my YouTube account](https://youtube.com/)
+
 ### Formation
 
 **-> 2019 - now :** Double diploma engineering - master of data science, Centrale Lille Institut x University of Lille (Villeneuve-d'Ascq, 59650)
