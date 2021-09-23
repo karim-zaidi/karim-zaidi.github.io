@@ -31,3 +31,5 @@ specialization: problem solving methods and project team management
 **-> September 2019 - Februar 2020 :** Steering the project, leading meetings, negotiating objectives with the client and implementing the collaboration of a team of 12 people using an agile method.
 
 _[click here to see all my data projects](https://github.com/karim-zaidi?tab=projects)_
+
+![image](https://www.pofilo.fr/img/SPOF-github/github1600.png)
