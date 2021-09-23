@@ -2,9 +2,10 @@
 
 ### My social media
 
-<img src="https://logodownload.org/wp-content/uploads/2019/03/linkedIn-logo-0.png" width="24"> [my LinkedIn account](https://www.linkedin.com)
-<img src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-1-1.png" width="24"> [my twitter account](https://twitter.com/)
-<img src="https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-0.png" width="24"> [my YouTube account](https://youtube.com/)
+<img src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png" width="24"> [my LinkedIn account](https://www.linkedin.com)  
+<img src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-1-1.png" width="24"> [my twitter account](https://twitter.com/)  
+<img src="https://img.favpng.com/20/12/15/youtube-kids-logo-png-favpng-JGLG77wUvkCUia4GXe51wsJBL.jpg" width="24"> [my YouTube account](https://youtube.com/)  
+
 
 ### Formation
 
