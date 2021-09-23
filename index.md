@@ -1,14 +1,6 @@
 # Karim ZAIDI
 
-```
-Master 1 data science, University of Lille (France)
-Mobile : (+33)XXXXXXXX
-Email : XXXXXXXXXX
-Address : XXXXXXXXXX
-```
-
 ### Formation
-
 
 **-> 2019 - now :** Double diploma engineering - master of data science, Centrale Lille Institut x University of Lille (Villeneuve-d'Ascq, 59650)
 
