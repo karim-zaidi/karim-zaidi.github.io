@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# Karim ZAIDI
 
-You can use the [editor on GitHub](https://github.com/karim-zaidi/karim-zaidi.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+Master 1 data science, University of Lille (France)
+Mobile : (+33)XXXXXXXX
+Email : XXXXXXXXXX
+Address : XXXXXXXXXX
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+ ## Formation
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/karim-zaidi/karim-zaidi.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+-> 2019 - now : Double diploma engineering - master of data science, Centrale Lille Institut x University of Lille (Villeneuve-d'Ascq, 59650)
 
-### Support or Contact
+-> 2019 : Bachelor's degree in mathematics, University of Lille (Villeneuve-d'Ascq, 59650)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+-> 2017 - 2019 : Class prépa, Condorcet (Paris, 75009)
+
+-> 2017 : Advanced level, Fénelon (Vaujours, 93410)
+
+
+## Certification
+
+- Project management – advanced | MOOC « Gestion de projet »
+specialization: problem solving methods and project team management
+
+- Acquire the basics in occupational risk prevention | INRS
+
+
+## Work experience
+
+-> Februar 2020 : Observation internship in a company and creation of KPIs and a dashboard for the management of the service center.
+
+-> 2014 : Observation internship in a company
+
+
+## Academic project
+
+-> September 2019 - Februar 2020 : Steering the project, leading meetings, negotiating objectives with the client and implementing the collaboration of a team of 12 people using an agile method.
